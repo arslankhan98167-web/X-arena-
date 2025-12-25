@@ -1,0 +1,7 @@
+{
+  "name": "X Arena",
+  "description": "A high-performance tournament management platform for mobile gamers featuring wallet integration, leaderboard, and referral systems.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
